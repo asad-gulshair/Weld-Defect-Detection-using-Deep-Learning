@@ -1,0 +1,9 @@
+ultralytics==8.0.196
+opencv-python==4.8.1.78
+tensorflow==2.14.0
+torch==2.1.0
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.8.0
+fastapi==0.104.0
+uvicorn==0.23.2
